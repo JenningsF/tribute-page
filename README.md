@@ -4,4 +4,4 @@ A Tom Hanks tribute page created to practice responsive web design in HTML and C
 
 Responsive Web Design Project from [freeCodeCamp](https://www.freecodecamp.org/ "freeCodeCamp").
 
-CodePen with tests found at https://codepen.io/jenningsf/pen/YzQovBG.
+CodePen with tests [here](https://codepen.io/jenningsf/pen/YzQovBG).
